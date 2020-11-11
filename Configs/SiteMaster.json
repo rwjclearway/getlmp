@@ -1,0 +1,52 @@
+{
+  "Sites": [
+    {
+      "Name": "Agua Caliente",
+      "LMPTag": "AGUCALG1_7_B1",
+      "DOTMWTag": "AGUCAL_5_SOLAR1",
+      "SUPPMWTag": "AGUCAL_5_SOLAR1"
+    },
+    {
+      "Name": "Avenal",
+      "LMPTag": "AVENAL_6_GN001",
+      "DOTMWTag": "AVENAL_6_AVPARK",
+      "SUPPMWTag": "AVENAL_6_AVPARK"
+    },
+    {
+      "Name": "Blythe 2",
+      "LMPTag": "BLYTHESC_1_N008",
+      "DOTMWTag": "BLYTHE_1_SOLAR2",
+      "SUPPMWTag": "BLYTHE_1_SOLAR2"
+    },
+    {
+      "Name": "Borrego",
+      "LMPTag": "BORREGO_6_N009",
+      "DOTMWTag": "BREGGO_6_SOLAR",
+      "SUPPMWTag": "BREGGO_6_SOLAR"
+    },
+    {
+      "Name": "CVSR-B",
+      "LMPTag": "CAVLSRGN_7_B1",
+      "DOTMWTag": "CAVLSR_2_BSOLAR",
+      "SUPPMWTag": "CAVLSR_2_BSOLAR"
+    },
+    {
+      "Name": "CVSR-R",
+      "LMPTag": "T0239_7_N002",
+      "DOTMWTag": "CAVLSR_2_RSOLAR",
+      "SUPPMWTag": "CAVLSR_2_RSOLAR"
+    },
+    {
+      "Name": "Sandrag",
+      "LMPTag": "AVENAL_6_GN002",
+      "DOTMWTag": "AVENAL_6_SANDDG",
+      "SUPPMWTag": "AVENAL_6_SANDDG"
+    },
+    {
+      "Name": "Suncity",
+      "LMPTag": "AVENAL_6_GN003",
+      "DOTMWTag": "AVENAL_6_SUNCTY",
+      "SUPPMWTag": "AVENAL_6_SUNCTY"
+    }
+  ]
+}

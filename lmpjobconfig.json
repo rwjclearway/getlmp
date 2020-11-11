@@ -1,0 +1,15 @@
+{
+  "root": "C:\\CAISOADS\\",
+  "inbounddir": "Inbound",
+  "outbounddir": "OutBound",
+  "unprocesseddir": "Unprocessed",
+  "runtime": "1598884449.902841",
+  "logPath": "C:\\ADS_PY_APP\\LOG\\",
+  "CertPath": "C:\\ADS_PY_APP\\CERT\\CLWE ADS-CAISO2020.p12",
+  "CertPass": "Clearway1!",
+  "KeepRunning": "1",
+  "LastCAISOBatchID": "DISP-DCE4A070-E3C5-4038-FFBF-AC15E2EC0D0D",
+  "iporurl": "12.231.58.67,12.231.58.66,12.200.60.66,12.200.60.67",
+  "LMPProcessingTimeMax": 60,
+  "FileLeadTime": 200
+}
